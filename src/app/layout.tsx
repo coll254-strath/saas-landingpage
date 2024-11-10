@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title:
-    `Ant SaaS will increase your team`s productivity with AI-Powered Precision`,
+    `Ant SaaS will increase your teams productivity with AI-Powered Precision`,
   description:
     'Where Collaborative Writing Meets Artificial Intelligence. All directly in Slack the moment an incident happens.',
   openGraph: {
