@@ -12,16 +12,16 @@ export const metadata: Metadata = {
   title:
     `Ant SaaS will increase your teams productivity with AI-Powered Precision`,
   description:
-    'Where Collaborative Writing Meets Artificial Intelligence. All directly in Slack the moment an incident happens.',
+    `Where Collaborative Writing Meets Artificial Intelligence. All directly in Slack the moment an incident happens.`,
   openGraph: {
-    images: '/opengraph-image.png'
+    images: `/opengraph-image.png`
   },
   twitter: {
-    card: 'summary_large_image',
+    card: `summary_large_image`,
     title:
-      'Ant Team : Information you need during on-call emergencies',
+      `Ant Team : Information you need during on-call emergencies`,
     description:
-      'Quickly link new on-call tickets to similar past incidents and their solutions. All directly in Slack the moment an incident happens.',
+      `Quickly link new on-call tickets to similar past incidents and their solutions. All directly in Slack the moment an incident happens.`,
     images: ['https://i.imgur.com/MPMcyPP.png']
   }
 }
