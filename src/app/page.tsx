@@ -17,8 +17,7 @@ export default function Home() {
         </Typography>
         <Typography className="max-w-2xl" variant="h5">
           Turn complex ideas into clear, professional documentation in minutes. 
-          Antwriter AI streamlines your team's content creation workflow with powerful
-          markdown editing and seamless collaboration.
+           Streamline your team's creation workflow with our Antwriter AI powered markdown editor.
         </Typography>
         <Link
           href="https://map.sistilli.dev/public/coding/SaaS+Boilerplate"
@@ -64,8 +63,7 @@ export default function Home() {
           </Typography>
           <Typography className="max-w-2xl" variant="p">
             Quickly link new on-call tickets to similar past
-            incidents and their solutions. All directly in
-            Slack the moment an incident happens.
+            incidents and their solutions. 
           </Typography>
       <Typography className="max-w-2xl" variant="p">
            Used by Technical Teams at Leading Companies.
@@ -81,7 +79,7 @@ export default function Home() {
           <Typography className="max-w-2xl" variant="h1">
             Get in touch
           </Typography>
-          <div>Book a demo, or hop on a call</div>
+          <div>Enterprise-Tested. Secure. Ready.Start your 14 day free-trial today.</div>
           <Link
             href="https://map.sistilli.dev/public/coding/SaaS+Boilerplate"
             target="_blank"
