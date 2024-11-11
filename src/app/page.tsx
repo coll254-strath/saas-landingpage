@@ -79,7 +79,9 @@ export default function Home() {
           <Typography className="max-w-2xl" variant="h1">
             Get in touch
           </Typography>
-          <div>Enterprise-Tested. Secure. Ready.Start your 14 day free-trial today.</div>
+          <div>Enterprise-Tested. Secure. Ready.</div>
+          <div>Ready to Transform Your Team?
+            Start your 14 day free-trial today.</div>
           <Link
             href="https://map.sistilli.dev/public/coding/SaaS+Boilerplate"
             target="_blank"
